@@ -8,7 +8,7 @@ exports.config={
     {
         url: 'http://amasik.com/demo/angularjs/angular-app',
         firstName: 'khadija',
-        lastName: 'rasul'
+        lastName: 'rasul1'
        
     },
    
